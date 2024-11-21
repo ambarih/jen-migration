@@ -3,8 +3,8 @@ from scp import SCPClient
 import os
  
 # Configuration
-source_host = "34.201.118.208"
-dest_host = "54.204.69.144"
+source_host = "54.227.61.123"
+dest_host = "54.159.2.137"
 username = "ec2-user"
 pem_file_path = "./ma-jen.pem"
 jenkins_jobs_path = "/var/lib/jenkins/jobs/"
